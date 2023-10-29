@@ -1,9 +1,9 @@
 import React from 'react'
 
-const whatgpt3 = () => {
+const WhatGPT3 = () => {
   return (
     <div>whatgpt3</div>
   )
 }
 
-export default whatgpt3
+export default WhatGPT3
