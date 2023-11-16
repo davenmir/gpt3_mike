@@ -16,7 +16,7 @@ const Header = () => {
           you without having to sit there and think it out while coding. I am a
           good coder, not a good designer.
         </p>
-        <div className="gpt__header-content__input">
+        <div className="gpt3__header-content__input">
           <input type="email" placeholder="your email address" />
           <button type="button"> Get Started</button>
         </div>
@@ -26,7 +26,7 @@ const Header = () => {
         </div>
       </div>
       <div className="gpt3__header-image">
-        <img src={ai} className="" />
+        <img src={ai} alt="ai" />
       </div>
     </div>
   );
